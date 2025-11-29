@@ -4,7 +4,7 @@ I enjoy building things that solve real problems. From **IoT sensors** to **web 
 I’ve studied abroad in **Poland** and collaborated on corporate projects at **Atiker Yazılım** and **TSE**. On campus, I contribute as **Vice President of YAGET** (software development club).
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iclal-inal-926771220/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iclalinal0@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iclalinal/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iclalinal0@gmail.com) 
 
 ## 💻 Tech Stack (core)
 <!-- Core stack kept compact for recruiters; add more below if needed -->
