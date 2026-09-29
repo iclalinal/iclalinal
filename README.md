@@ -42,11 +42,10 @@ I’ve studied abroad in **Poland** and collaborated on corporate projects at **
 </details>
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=iclalinal&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600"
+      src="https://github-stats-extended.vercel.app/api?username=iclalinal&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600"
       height="160"
       alt="GitHub stats for iclalinal"
     />
